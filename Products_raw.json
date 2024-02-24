@@ -1,0 +1,60 @@
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-1.png", "name": "MYSTIC YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "99,99", "type": "shoes", "category": ["man", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-2.png", "name": "MYSTIC YOUTH WHITE / YELLOW", "description": "Zapatillas casual unisex", "price": "199,99", "type": "snikers", "category": ["man", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-3.png", "name": "MYSTIC YOUTH WHITE / BLACK 2", "description": "Zapatillas casual unisex", "price": "199,99", "type": "boots", "category": ["man", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-4.png", "name": "MYSTIC YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "199,99", "type": "shoes", "category": ["man", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-5.png", "name": "MYSTIC YOUTH WHITE / RAW 25", "description": "Zapatillas de running neutras", "price": "299,99", "type": "shoes", "category": ["man", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-6.png", "name": "MYSTIC YOUTH WHITE / RANDOM", "description": "Zapatillas de running neutras", "price": "219,99", "type": "snikers", "category": ["man", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-7.png", "name": "MYSTIC YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "199,99", "type": "snikers", "category": ["women", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-8.png", "name": "MYSTIC SHOES WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "199,99", "type": "snikers", "category": ["man", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-9.png", "name": "MYSTIC SNIKERS WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "199,99", "type": "snikers", "category": ["man", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-10.png", "name": "SNIKERS YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "79,99", "type": "snikers", "category": ["man", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-11.png", "name": "UNICORN YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "59,99", "type": "boots", "category": ["man", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-12.png", "name": "DINOSAUR YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "49,99", "type": "snikers", "category": ["man", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-13.png", "name": "MYSTIC YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "29,99", "type": "snikers", "category": ["man", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-14.png", "name": "ELF YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "19,99", "type": "snikers", "category": ["man", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-15.png", "name": "SINIKER YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "9,99", "type": "snikers", "category": ["man", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-16.png", "name": "MYSTIC YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "99,99", "type": "shoes", "category": ["women", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-17.png", "name": "MYSTIC YOUTH WHITE / YELLOW", "description": "Zapatillas casual unisex", "price": "199,99", "type": "snikers", "category": ["women", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-18.png", "name": "MYSTIC YOUTH WHITE / BLACK 2", "description": "Zapatillas casual unisex", "price": "99,99", "type": "boots", "category": ["women", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-19.png", "name": "MYSTIC YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "199,99", "type": "shoes", "category": ["women", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-20.png", "name": "MYSTIC YOUTH WHITE / RAW 25", "description": "Zapatillas de running neutras", "price": "299,99", "type": "shoes", "category": ["women", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-21.png", "name": "MYSTIC YOUTH WHITE / RANDOM", "description": "Zapatillas de running neutras", "price": "299,99", "type": "snikers", "category": ["women", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-22.png", "name": "MYSTIC YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "199,99", "type": "snikers", "category": ["women", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-23.png", "name": "MYSTIC SHOES WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "199,99", "type": "snikers", "category": ["women", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-24.png", "name": "MYSTIC SNIKERS WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "199,99", "type": "snikers", "category": ["women", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-25.png", "name": "SNIKERS YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "69,99", "type": "snikers", "category": ["women", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-26.png", "name": "UNICORN YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "59,99", "type": "boots", "category": ["women", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-27.png", "name": "DINOSAUR YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "49,99", "type": "snikers", "category": ["man", "women", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-28.png", "name": "MYSTIC YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "29,99", "type": "snikers", "category": ["women", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-29.png", "name": "ELF YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "19,99", "type": "snikers", "category": ["women", "child"] }
+{ "index": { "_index": "products" } }
+{ "image": "https://richarcangui.com/shoes/shoes-30.png", "name": "SINIKER YOUTH WHITE / SILVER", "description": "Zapatillas de running neutras", "price": "9,99", "type": "snikers", "category": ["women", "child"] }
