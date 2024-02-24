@@ -14,8 +14,8 @@ eureka:
     service-url:
       defaultZone: ${EUREKA_URL:http://localhost:8083/eureka}
   instance:
-    preferIpAddress: true
-    hostname: ms-store-products
+    preferIpAddress: true # For local development. Set to false if you want to use the hostname in a DNS-enabled environment
+    hostname: ${HOSTNAME:localhost}
 
 ##Elasticsearch config
 elasticsearch:
